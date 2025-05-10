@@ -1,37 +1,46 @@
 [
   {
-    "name": "Neutst",
-    "description": "A cutting-edge platform to streamline workflows.",
+    "name": "Startup Alpha",
+    "description": "Ein innovatives FinTech-Startup, das mobile Zahlungen revolutioniert.",
     "logo": "https://via.placeholder.com/100",
-    "website": "https://projectone.com",
+    "website": "https://startup-alpha.com",
     "socialMedia": {
-      "facebook": "https://facebook.com/projectone",
-      "twitter": "https://twitter.com/projectone"
+      "linkedin": "https://linkedin.com/company/startup-alpha",
+      "twitter": "https://twitter.com/startupalpha"
     },
     "founder": "Marco Pulver",
-    "year": 2023,
+    "year": "2023",
     "gallery": [
-      { "type": "image", "src": "https://via.placeholder.com/150" },
-      { "type": "video", "src": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
+      {
+        "type": "image",
+        "src": "https://via.placeholder.com/400x300"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      }
     ]
-  }
-]
-[
+  },
   {
-    "name": "Neutst",
-    "description": "A cutting-edge platform to streamline workflows.",
+    "name": "Eco Solutions",
+    "description": "Nachhaltige Lösungen für die Energiebranche.",
     "logo": "https://via.placeholder.com/100",
-    "website": "https://projectone.com",
+    "website": "https://eco-solutions.org",
     "socialMedia": {
-      "facebook": "https://facebook.com/projectone",
-      "twitter": "https://twitter.com/projectone"
+      "instagram": "https://instagram.com/ecosolutions",
+      "facebook": "https://facebook.com/ecosolutions"
     },
     "founder": "Marco Pulver",
-    "year": 2023,
+    "year": "2024",
     "gallery": [
-      { "type": "image", "src": "https://via.placeholder.com/150" },
-      { "type": "video", "src": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
+      {
+        "type": "image",
+        "src": "https://via.placeholder.com/400x300?text=Eco+1"
+      },
+      {
+        "type": "image",
+        "src": "https://via.placeholder.com/400x300?text=Eco+2"
+      }
     ]
   }
 ]
-
