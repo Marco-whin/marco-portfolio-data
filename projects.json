@@ -44,6 +44,28 @@
     ]
   },
   {
+    "name": "Startup Alpha",
+    "description": "Ein innovatives FinTech-Startup, das mobile Zahlungen revolutioniert.",
+    "logo": "https://via.placeholder.com/100",
+    "website": "https://startup-alpha.com",
+    "socialMedia": {
+      "linkedin": "https://linkedin.com/company/startup-alpha",
+      "twitter": "https://twitter.com/startupalpha"
+    },
+    "founder": "Marco Pulver",
+    "year": "2023",
+    "gallery": [
+      {
+        "type": "image",
+        "src": "https://via.placeholder.com/400x300"
+      },
+      {
+        "type": "video",
+        "src": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+      }
+    ]
+  },
+  {
     "name": "Eco Solutions",
     "description": "Nachhaltige Lösungen für die Energiebranche.",
     "logo": "https://via.placeholder.com/100",
