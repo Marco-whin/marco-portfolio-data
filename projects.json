@@ -15,8 +15,10 @@
       { "type": "video", "src": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
     ]
   }
-    {
-    "name": "Project sasde",
+]
+[
+  {
+    "name": "Project3",
     "description": "A cutting-edge platform to streamline workflows.",
     "logo": "https://via.placeholder.com/100",
     "website": "https://projectone.com",
@@ -32,3 +34,4 @@
     ]
   }
 ]
+
