@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Project One",
+    "description": "A cutting-edge platform to streamline workflows.",
+    "logo": "https://via.placeholder.com/100",
+    "website": "https://projectone.com",
+    "socialMedia": {
+      "facebook": "https://facebook.com/projectone",
+      "twitter": "https://twitter.com/projectone"
+    },
+    "founder": "Marco Pulver",
+    "year": 2023,
+    "gallery": [
+      { "type": "image", "src": "https://via.placeholder.com/150" },
+      { "type": "video", "src": "https://www.youtube.com/embed/dQw4w9WgXcQ" }
+    ]
+  }
+]
