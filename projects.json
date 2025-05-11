@@ -1,4 +1,16 @@
 [
+{
+  "name": "Pimmel",
+  "description": "Ficken macht spass",
+  "logo": "penis.png",
+  "website": "Penis.com",
+  "socialMedia": {
+    "youtube": "https"
+  },
+  "founder": "Penis party",
+  "year": "2023",
+  "gallery": []
+},
   {
     "name": "Startup Alpha",
     "description": "Ein innovatives FinTech-Startup, das mobile Zahlungen revolutioniert.",
@@ -21,6 +33,7 @@
       }
     ]
   },
+  
   {
     "name": "Startup Alpha",
     "description": "Ein innovatives FinTech-Startup, das mobile Zahlungen revolutioniert.",
@@ -43,6 +56,7 @@
       }
     ]
   },
+  
   {
     "name": "Startup Alpha",
     "description": "Ein innovatives FinTech-Startup, das mobile Zahlungen revolutioniert.",
